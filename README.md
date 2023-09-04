@@ -30,13 +30,13 @@ import nltk
 nltk.download('stopwords')
 ```
 
-#Data Preprocessing
+## Data Preprocessing
 Data preprocessing is a crucial step in this project. It involves text cleaning, lowercasing, tokenization, stop word removal, and stemming. This ensures that the text data is in a suitable format for the machine learning model.
 
-#Machine Learning Model
+## Machine Learning Model
 We used a Support Vector Machine (SVM) with the Radial Basis Function (RBF) kernel to build our classification model. The model achieved an accuracy of 80% on the test data.
 
-#Results
+## Results
 The confusion matrix and accuracy score for the model's predictions on the test data are displayed below:
 ```
 Confusion Matrix:
