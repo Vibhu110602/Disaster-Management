@@ -10,7 +10,6 @@ This machine learning project is designed to predict whether tweets are about re
 - [Data Preprocessing](#data-preprocessing)
 - [Machine Learning Model](#machine-learning-model)
 - [Results](#results)
-- [Contributing](#contributing)
 
 ## Introduction
 Twitter has become a valuable platform for people to report and discuss emergencies. However, not all tweets are related to real disasters, making it crucial to distinguish between them. This project employs natural language processing and machine learning techniques to classify tweets as either disaster-related or not.
