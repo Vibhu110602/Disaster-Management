@@ -38,7 +38,7 @@ We used a Support Vector Machine (SVM) with the Radial Basis Function (RBF) kern
 
 ## Results
 The confusion matrix and accuracy score for the model's predictions on the test data are displayed below:
-```
+```python
 Confusion Matrix:
 [[True Positives  False Negatives]
  [False Positives True Negatives]]
