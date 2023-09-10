@@ -18,7 +18,7 @@ Twitter has become a valuable platform for people to report and discuss emergenc
 To use this project, follow these steps:
 
 1. **Clone the Repository**
-  git clone https://github.com/your-username/twitter-disaster-prediction.git
+  git clone https://github.com/Vibhu110602/Disaster-Management
 
 2. **Install Dependencies**
    pip install pandas numpy scikit-learn nltk
