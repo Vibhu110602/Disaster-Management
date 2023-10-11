@@ -18,12 +18,13 @@ Twitter has become a valuable platform for people to report and discuss emergenc
 To use this project, follow these steps:
 
 1. **Clone the Repository**
+ ```
   git clone https://github.com/Vibhu110602/Disaster-Management
-
-2. **Install Dependencies**
+  ```
+3. **Install Dependencies**
    pip install pandas numpy scikit-learn nltk
 
-3. **Download NLTK Resources**
+4. **Download NLTK Resources**
 Before running the code, make sure to download the NLTK resources by executing the following in a Python shell:
 ```python
 import nltk
